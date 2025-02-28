@@ -1,2 +1,2 @@
 # Discord-Gemini-Chatbot
-short project trying to integrete gemini api into discord to make a simple chatbot.
+short project trying to integrate gemini api into discord to make a simple chatbot.
